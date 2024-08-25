@@ -21,13 +21,19 @@
 
 ## スキル
 
-| key           | value                                                   |
-| ------------- | ------------------------------------------------------- |
-| Language      | TypeScript / Node.js / PHP / Kotlin / Java              |
-| Framework/CMS | React / Next.js / Vue.js / Nuxt.js / Laravel / Spring Boot / WordPress / jQuery |
-| Test tools    | Puppeteer / nightwatch / Cypress / jest / phpunit       |
-| CI/CD         | GitHub Actions / Screwdriver                            |
-| Infra/BaaS    | AWS / Firebase / docker                                 |
+- TypeScript（使用期間:5年）
+  - 過去全ての企業で経験
+  - フロントエンド・バックエンドどちらもテックリード経験あり
+  - React / Next.js / Vue.js / Nuxt.js / jQuery / Puppeteer / Cypress / nightwatch / jest
+- PHP（使用期間:3年）
+  - 越境ECサイトの開発で主に使用
+  - 個人アプリでも継続的に開発を実施
+  - Laravel / WordPress
+- Kotlin（使用期間:1年）
+  - ヤフー時代のマイクロサービス開発で使用
+  - Spring Boot
+- AWS（試用期間:4年）
+  - EC2 / Lambda / API Gateway / AppSync / DynamoDB / RDS / CloudWatch / Cloudfront / Step Functions / S3 / AWS CDK / Amplify
 
 ## 職務経歴(概要)
 
