@@ -30,9 +30,10 @@
   - 個人アプリでも継続的に開発を実施
   - Laravel / WordPress
 - Kotlin（使用期間:1年）
-  - ヤフー時代のマイクロサービス開発で使用
+  - ヤフー株式会社のマイクロサービス開発で使用
   - Spring Boot
-- AWS（試用期間:4年）
+- AWS（使用期間:4年）
+  - ヤフー株式会社以外の全ての企業で利用
   - EC2 / Lambda / API Gateway / AppSync / DynamoDB / RDS / CloudWatch / Cloudfront / Step Functions / S3 / AWS CDK / Amplify
 
 ## 職務経歴(概要)
